@@ -1,0 +1,12 @@
+31.05.2021 - 8kyu 1xZ
+1.06.2021 - 8kyu 3xZ
+6.06.2021 - 6kyu 1xZ
+7.06.2021 - 8kyu 3xZ
+8.06.2021 - 8kyu 2xZ
+20.06.2021 - 7kyu (CW nie kompilowało)
+30.01.2022 - 7kyu (CreditCardMask), 7kyu (SquareEveryDigit)
+31.01.2022 - 7kyu (IsItTriangle)
+3.02.2022 - 6kyu (SortTheOdd)
+6.02.2022 - 7kyu (The Barksdale Code - decode)
+8.02.2022 - 7kyu (isIsogram)
+11.02.2022 - 6kyu (who likes it)
