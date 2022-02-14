@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+import static java.lang.Integer.parseInt;
+
 public class main6kyu
 {
     public static void main(String[] args)
@@ -79,5 +81,20 @@ public class main6kyu
             System.out.println(string);
             return string;
         }
+    }
+    public static long findNb(long m)
+    {
+       long sum=0;
+       long counter=0;
+       while(true)
+       {
+           counter++;
+           sum+=counter*counter*counter;
+           if(sum==m)
+               return counter;
+           if (sum>m)
+               return -1;
+       }
+
     }
 }
